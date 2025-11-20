@@ -8,7 +8,7 @@ st.set_page_config(
 
 #Definir las páginas 
 home_page = st.Page(
-    "Paginas/home.py",
+    "paginas/home.py",
     title="Home",
     icon=":material/home:"
 )
