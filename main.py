@@ -14,20 +14,20 @@ home_page = st.Page(
 )
 
 projects_page = st.Page(
-    "Paginas/project_analysis.py",
+    "paginas/project_analysis.py",
     title="Analisis de proyectos",
     icon=":material/analytics:"
 )
 
 percentage_page = st.Page(
-    "Paginas/percentage_analysis.py",
+    "paginas/percentage_analysis.py",
     title="Analisis de porcentajes",
     icon=":material/table_chart_view:"
 
 )
 
 mapa_page = st.Page(
-    "Paginas/Mapa.py",
+    "paginas/Mapa.py",
     title="Mapas",
     icon=":material/map_search:"
 
